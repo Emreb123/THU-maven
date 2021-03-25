@@ -18,3 +18,5 @@ buildNumber.properties
 .idea/
 
 template.iml
+
+.DS_Store
